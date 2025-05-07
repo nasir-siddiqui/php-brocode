@@ -1,2 +1,2 @@
 # php-brocode
-PHP course by @Brocodez
+PHP course by youtube.com/@Brocodez
